@@ -4,20 +4,20 @@ var config = {
     showMarkers: false,
     theme: 'dark',
     use3dTerrain: true,
-    title: 'Glaciers of Glacier National Parke',
-    subtitle: 'Change in coverage from 1998 to 2015',
+    title: 'Jaguar Siembra - Sierra Nevada de Santa Marta',
+    subtitle: 'Te mostramos nuestro trabajo',
     byline: '',
-    footer: 'Source: Story text from Wikipedia, August 2019. Data from <a href="https://www.usgs.gov/centers/norock/science/retreat-glaciers-glacier-national-park">USGS</a>',
+    footer: 'Jaguar Siembra - Todos los derechos reservados',
     chapters: [
         {
-            id: 'glacier-np',
+            id: 'introduction',
             alignment: 'full',
-            title: 'Glacier National Park Glaciers',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg/800px-2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg',
-            description: 'Glacier National Park is dominated by mountains which were carved into their present shapes by the huge glaciers of the last ice age...',
+            title: 'Sierra Nevada - Introducción',
+            image: 'https://cdn.shopify.com/s/files/1/0693/6874/2045/files/Mountain-down.png?v=1731597280',
+            description: 'Esta es la Sierra Nevada de Santa Marta',
             location: {
                 center: [-73.68656, 10.83888],
-                zoom: 8,
+                zoom: 5,
                 pitch: 0.00,
                 bearing: 0.00
             },
