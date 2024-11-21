@@ -41,9 +41,9 @@ var config = {
         {
             id: 'harrison1998',
             alignment: 'left',
-            title: 'Harrison Glacier, 1998',
+            title: 'Sierra Nevada',
             image: '',
-            description: 'Harrison Glacier is located in the US state of Montana in Glacier National Park. Situated on a southeast facing ridge immediately south of Mount Jackson, Harrison Glacier is the largest glacier in Glacier National Park...',
+            description: 'Esta es la sierra nevada',
             location: {
                 center: [-73.61323, 10.74815],
                 zoom: 9,
