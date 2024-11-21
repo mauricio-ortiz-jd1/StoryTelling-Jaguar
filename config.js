@@ -17,9 +17,9 @@ var config = {
             description: 'Esta es la Sierra Nevada de Santa Marta',
             location: {
                 center: [-73.61323, 10.74815],
-                zoom: 9,
-                pitch: 150.00,
-                bearing: 57.00
+                zoom: 5,
+                pitch: 0,
+                bearing: 0
             },
             onChapterEnter: [
                 {
@@ -45,10 +45,10 @@ var config = {
             image: '',
             description: 'Harrison Glacier is located in the US state of Montana in Glacier National Park. Situated on a southeast facing ridge immediately south of Mount Jackson, Harrison Glacier is the largest glacier in Glacier National Park...',
             location: {
-                center: [-73.68656, 10.83888],
-                zoom: 12.92,
-                pitch: 39.50,
-                bearing: 36.00
+                center: [-73.61323, 10.74815],
+                zoom: 9,
+                pitch: 150.00,
+                bearing: 57
             },
             onChapterEnter: [],
             onChapterExit: [
