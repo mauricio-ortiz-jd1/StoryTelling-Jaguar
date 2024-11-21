@@ -16,10 +16,10 @@ var config = {
             image: 'https://cdn.shopify.com/s/files/1/0693/6874/2045/files/Mountain-down.png?v=1731597280',
             description: 'Esta es la Sierra Nevada de Santa Marta',
             location: {
-                center: [-73.68656, 10.83888],
-                zoom: 5,
-                pitch: 0.00,
-                bearing: 0.00
+                center: [-73.61323, 10.74815],
+                zoom: 9,
+                pitch: 150.00,
+                bearing: 57.00
             },
             onChapterEnter: [
                 {
